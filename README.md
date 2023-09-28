@@ -44,15 +44,15 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,css,docker,express,figma,firebase,github,html,flask,bash,linux,md,materialui,mongodb,nextjs,nodejs,postman,py,reactnative,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,css,docker,pandas,numpy,seaborn,C#,figma,firebase,github,html,flask,bash,linux,md,materialui,mongodb,nextjs,nodejs,postman,py,reactnative,redux,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
 <!--icons and links-->
 <p align="center">
 <a href="https://https://www.linkedin.com/in/richardogundele" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/olamidealiyu" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<!-- <a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a> -->
+<a href="https://twitter.com/richardogundele" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+
   
 </p>
 
