@@ -1,14 +1,14 @@
-# Hello 👋, I'm Richard, a Backend Web/Mobile  Application Developer and LLM Prompt Engineer
+# Hello 👋, I'm Richard, an AI Software Engineer and LLM Prompt Engineer
 
 <!--Intro start-->
 
-- 🔭 I’m currently working on **FastAPI, ReactNative, FineTuning, MongoDB**
+- 🔭 I’m currently working on **Machine Learning, Deep Learning, React,FineTuning, MongoDB**
 
-- 🌱 I’m currently learning **Developing AI Powered Apps Using LLMs.**
+- 🌱 I’m currently learning **Fine tuning, GenerativeAI Explainable Models.**
 
 - ☁️ I have keen interest in back-end development, Prompt Engineering and Large Language Models.
 
-- 💬 Ask me about **FastAPI ReactNative, Data Science, Machine Learning, LLMs, Prompt Engineering MongoDB**
+- 💬 Ask me about **FastAPI, Data Science, Machine Learning, LLMs, Prompt Engineering B**
 
 - 📫 Feel free to reach me at **ogundelerichard27@gmail.com**
 
