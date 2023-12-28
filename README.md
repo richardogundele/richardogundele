@@ -44,10 +44,8 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,css,docker,pandas,numpy,seaborn,C#,figma,firebase,github,html,flask,bash,linux,md,materialui,mongodb,nextjs,nodejs,postman,py,reactnative,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,azure,git,cs,atom,bash,cmake,fastapi,flask,github,ai,linux,linkedin,mongodb,netlify,postman,py,ros,git,bootstrap,c,css,docker,pandas,numpy,seaborn,C#,figma,firebase,github,html,flask,bash,linux,md,materialui,mongodb,nextjs,nodejs,postman,py,reactnative,redux,tailwind,ts,vscode&perline=14" />
   </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 </p>
 
 </p>
