@@ -2,9 +2,9 @@
 
 <!--Intro start-->
 
-- 🔭 I’m currently working on **Machine Learning, Deep Learning, React,FineTuning, MongoDB**
+- 🔭 I’m currently working on **Machine Learning, Deep Learning,Fine tuning, GenerativeAI Explainable Models**
 
-- 🌱 I’m currently learning **Fine tuning, GenerativeAI Explainable Models.**
+- 🌱 I’m currently learning **GenerativeAI Explainable Models**
 
 - ☁️ I have keen interest in back-end development, Prompt Engineering and Large Language Models.
 
