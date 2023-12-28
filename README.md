@@ -44,22 +44,20 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,azure,git,cs,atom,bash,cmake,fastapi,flask,github,ai,linux,linkedin,mongodb,netlify,postman,py,ros,git,bootstrap,pandas,numpy,seaborn,C#,md,materialui,,nextjs,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,azure,git,cs,atom,bash,cmake,fastapi,flask,github,ai,linux,mongodb,netlify,postman,py,ros,git,bootstrap,pandas,numpy,seaborn,md,materialui,,nextjs,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
 </p>
 <!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/richardogundele/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/therichediamond" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-
-  
-</p>
 
 <!--profile visit count-->
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=IamLam163&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+
+<p align="center">
+<a href="https://www.linkedin.com/in/richardogundele/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/therichediamond" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+</p>
 </div>
