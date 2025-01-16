@@ -1,14 +1,14 @@
-# Hello 👋, I'm Richard, an AI Software Engineer and LLM Prompt Engineer
+# Hello 👋, I'm Richard, an AI Engineer with experience in LLMs, Software Development and Cloud.
 
 <!--Intro start-->
 
-- 🔭 I’m currently working on **Machine Learning, Deep Learning,Fine tuning, GenerativeAI Explainable Models**
+- 🔭 I’m currently working on **Retrieval Augemented Generation, Azure Cloud, DevOps, Explainable AI**
 
-- 🌱 I’m currently learning **GenerativeAI Explainable Models**
+- 🌱 I’m currently learning **AI Quantum Computing**
 
-- ☁️ I have keen interest in back-end development, Prompt Engineering and Large Language Models.
+- ☁️ I have keen interest in quantum computing, AI in Cloud and Large Language Models.
 
-- 💬 Ask me about **FastAPI, Data Science, Machine Learning, LLMs, Prompt Engineering B**
+- 💬 Ask me about **Automation, Machine Learning, LLMs, Prompt Engineering B**
 
 - 📫 Feel free to reach me at **ogundelerichard27@gmail.com**
 
