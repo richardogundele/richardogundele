@@ -2,7 +2,7 @@
 
 <!--Intro start-->
 
-- 🔭 I’m currently working on **Retrieval Augmented Generation, Azure Cloud, DevOps, Explainable AI**
+- 🔭 I’m currently working on **Cloud HPC, Azure Cloud, DevOps, Explainable AI**
 
 - 🌱 I’m currently learning **AI Quantum Computing**
 
