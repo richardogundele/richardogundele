@@ -3,15 +3,15 @@
 <!--Intro start-->
 
 - 🎓 Research Cloud Engineer – building scalable AI using .
-- 
+  
 - 🎤 Speaker at AI Summit London 2025 – on AI education and explainability.
-- 
+  
 - 📚 Created Explainable AI course with 500 + learners across 9 countries.
-- 
+  
 - 🛠️ Founder – MyyVentureCapital; organized innovation hackathon with £3k+ funding.
-- 
+  
 - 🧠 Co‑founder – MMU AI & Data Science Society (250+ members, 15 events).
-- 
+  
 - ✍️ Published AI policy in ThisDayLive (10k+ readers).
 
 ### 🔭 Featured Projects  
