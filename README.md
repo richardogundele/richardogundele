@@ -2,15 +2,30 @@
 
 <!--Intro start-->
 
-- 🔭 I’m currently working on **Cloud HPC, Azure Cloud, DevOps, Explainable AI**
+- 🎓 Research Cloud Engineer – building scalable AI using .
+- 
+- 🎤 Speaker at AI Summit London 2025 – on AI education and explainability.
+- 
+- 📚 Created Explainable AI course with 500 + learners across 9 countries.
+- 
+- 🛠️ Founder – MyyVentureCapital; organized innovation hackathon with £3k+ funding.
+- 
+- 🧠 Co‑founder – MMU AI & Data Science Society (250+ members, 15 events).
+- 
+- ✍️ Published AI policy in ThisDayLive (10k+ readers).
 
-- 🌱 I’m currently learning **AI Quantum Computing**
+### 🔭 Featured Projects  
 
-- ☁️ I have a keen interest in quantum computing, AI in Cloud, and Large Language Models.
+#### **AIPoweredApp**  
+A GPT‑4–based AI assistant built with JavaScript and deployed on [hosting platform]. Includes chat interface, API integrations, and multi‑tool support.
 
-- 💬 Ask me about **Automation, Machine Learning, LLMs, Prompt Engineering**
+#### **journalistai**  
+A journalist recommender tool using Python and NLP models to match journalists with relevant AI content.
 
-- 📫 Feel free to reach me at **ogundelerichard27@gmail.com**
+#### **Thatsthem** & **TheSpain**  
+Educational web scrapers built in Python; used for internal tooling and learning.
+
+📂 Explore more in my [repositories](https://github.com/richardogundele?tab=repositories).
 
 <!--Intro end-->
 
