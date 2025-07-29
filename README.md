@@ -42,6 +42,14 @@ Currently advancing AI research in cloud environments while contributing to the 
 
 ## 🚀 Featured Projects
 
+### 🎯 **Chariot AI**
+**Agentic Result-as-a-Service Marketing Platform**
+- **Autonomous AI marketing** - Users input product details, AI handles everything from creative generation to campaign optimization
+- Built with **React 18 + TypeScript**, **Supabase backend**, and **Meta Ads API** integration
+- Features **real-time WebSocket updates**, **OpenAI-powered content generation**, and **automated campaign management**
+- **Impact**: Transforms marketing from manual tasks to autonomous results delivery
+- **🔗 Repository**: [github.com/richardogundele/chariot-ai-app](https://github.com/richardogundele/chariot-ai-app)
+
 ### 🤖 **AIPoweredApp**
 **Enterprise-Grade AI Assistant Platform**
 - Built with **GPT-4 integration** and advanced **JavaScript architecture**
@@ -128,8 +136,8 @@ Currently advancing AI research in cloud environments while contributing to the 
 📈 **500+ Global Learners** - Successful educational program delivery  
 
 ### **Community Leadership**
-🚀 **Venture Capital Founder** - £3K+ innovation funding facilitated  
-👥 **Society Co-founder** - 250+ member community built  
+🚀 **Venture Capital Founder** - £6K+ innovation funding facilitated  
+👥 **Society Co-founder** - 200+ member community built  
 📝 **Published Author** - 10K+ readers reached through policy insights  
 
 </div>
