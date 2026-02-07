@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Richard Ogundele</h1>
-  <h3>AI Engineer & Research Leader</h3>
+  <h3>AI Governance & Compliance Architect</h3>
 
   <p>
     <a href="https://www.linkedin.com/in/richardogundele/" target="_blank">
@@ -16,9 +16,15 @@
 
 ## About Me
 
-AI Engineer specializing in **Machine Learning**, **Cloud Infrastructure**, and **Intelligent Systems**. Experienced in building scalable solutions across full-stack development, infrastructure automation, and AI/ML applications.
+### Architecting AI Governance That Enterprises Trust
 
-Passionate about democratizing AI education and contributing to open-source projects that deliver real-world impact.
+I help governments and enterprises govern their AI deployments through comprehensive audits, governance frameworks, and regulatory compliance oversight — identifying risks before they become million-pound problems.
+
+**Core Expertise:**
+- **AI Governance Frameworks** - Designing and implementing enterprise-wide AI governance structures
+- **Regulatory Compliance** - Ensuring AI systems meet EU AI Act, GDPR, and industry-specific regulations
+- **AI Risk Assessment** - Comprehensive audits identifying vulnerabilities in AI deployments
+- **Technical Implementation** - Building scalable AI solutions with governance built-in from day one
 
 ---
 
@@ -121,11 +127,13 @@ Passionate about democratizing AI education and contributing to open-source proj
 
 ## Professional Highlights
 
-- **AI Education**: Trained 500+ learners across 9 countries
+- **AI Governance Leadership**: Architecting compliance frameworks for governments and enterprises
+- **Risk Mitigation**: Identifying and preventing million-pound AI deployment risks through comprehensive audits
+- **AI Education**: Trained 500+ learners across 9 countries in responsible AI practices
 - **Community Leadership**: Co-founder, MMU AI & Data Science Society (250+ members)
+- **Thought Leadership**: Global AI Summit presentations on AI Governance, Explainability & Compliance
 - **Innovation**: Founder, MyyVentureCapital - led £6K+ innovation hackathon
-- **Speaking**: Global AI Summit presentations on AI Education & Explainability
-- **Publication**: Featured in ThisDayLive reaching 10,000+ readers
+- **Publication**: Featured in ThisDayLive reaching 10,000+ readers on AI policy and governance
 
 ---
 
@@ -140,16 +148,17 @@ Passionate about democratizing AI education and contributing to open-source proj
 
 ## Current Focus
 
-- Building scalable AI solutions with cloud-native architectures
-- Contributing to open-source AI/ML projects
-- Advancing AI education and community building
-- Research in explainable AI and responsible AI practices
+- **AI Governance Consulting** - Helping enterprises build robust AI governance frameworks
+- **Regulatory Compliance** - Guiding organizations through EU AI Act and regulatory requirements
+- **AI Risk Audits** - Conducting comprehensive assessments of AI deployments
+- **Thought Leadership** - Speaking on AI governance, compliance, and responsible AI practices
+- **Community Building** - Democratizing AI education and contributing to open-source governance tools
 
 ---
 
 ## Let's Connect
 
-I'm open to collaborations, research partnerships, and speaking opportunities in AI and machine learning.
+I'm available for AI governance consulting, regulatory compliance advisory, enterprise AI audits, and speaking engagements on responsible AI deployment.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/richardogundele/">
