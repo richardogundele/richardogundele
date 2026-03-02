@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Richard Ogundele</h1>
+  <h1>Hi, I'm Richard</h1>
   <h3>AI Engineer & Research Leader</h3>
 
   <p>
@@ -115,7 +115,7 @@ I'm open to collaborations, research partnerships, and speaking opportunities in
   <a href="https://www.linkedin.com/in/richardogundele/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/therichediamond">
+  <a href="https://twitter.com/jesusintech">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 
