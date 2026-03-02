@@ -53,69 +53,29 @@ Passionate about democratizing AI education and contributing to open-source proj
 
 ### 🚀 Recent Work
 
-#### [Chariot AI](https://github.com/richardogundele/chariot)
-**TypeScript** | AI-powered automation platform
-- Intelligent workflow automation
-- Modern TypeScript architecture
-- Scalable AI integration
+#### [beautyafterbaby](https://github.com/richardogundele/beautyafterbaby)
+**TypeScript** | Postpartum beauty and wellness platform
+- Personalized wellness recommendations
+- Community support features
+- Modern full-stack architecture
 
-#### [Research Scout](https://github.com/richardogundele/Researchscoutproject)
-**TypeScript** | Research discovery and analysis platform
-- Automated research aggregation
-- Data-driven insights
-- Modern web technologies
+#### [sponsorpath](https://github.com/richardogundele/sponsorpath)
+**TypeScript** | Sponsorship discovery and management platform
+- Sponsor matching and outreach tools
+- Deal tracking and analytics
+- Streamlined partnership workflows
 
-#### [Gym Management System](https://github.com/richardogundele/v0-gym-project)
-**TypeScript** | Full-stack gym management application
-- Member management
-- Booking and scheduling system
-- Real-time updates
+#### [Rise](https://github.com/richardogundele/rise)
+**TypeScript** | Personal growth and productivity application
+- Goal setting and progress tracking
+- AI-powered insights and coaching
+- Habit formation system
 
-#### [Diamond Foundation](https://github.com/richardogundele/diamondfoundation)
-**TypeScript** | Full-stack application built with modern TypeScript
-- Modern web architecture
-- Type-safe development
-- Scalable design patterns
-
-### 🏗️ Infrastructure & Cloud
-
-#### [Terraform Infrastructure Code](https://github.com/richardogundele/terraformcode)
-**Terraform/HCL** | Infrastructure as Code for Azure deployments
-- Automated VM provisioning
-- Azure Bastion deployment
-- Cloud infrastructure automation
-
-#### [Guided Project](https://github.com/richardogundele/guidedproject)
-**Terraform/HCL** | Infrastructure automation and deployment
-- Cloud resource provisioning
-- Infrastructure best practices
-- Automated deployments
-
-### 🤖 AI/ML & Data Science
-
-#### [Diabetes Detection & Recommendation System](https://github.com/richardogundele/diabetes-detection-and-recommendation)
-**Prolog** | Expert system for healthcare analysis
-- Patient data analysis
-- Treatment recommendation engine
-- Educational resources for patients
-
-#### [Car Sales Prediction](https://github.com/richardogundele/MLC-Project)
-**Jupyter Notebook** | Machine learning classification project
-- Predictive analytics
-- Data preprocessing and feature engineering
-- Model evaluation and optimization
-
-#### [Path Planning Algorithms](https://github.com/richardogundele/pathplanningagorithms)
-**Python** | Implementation of robotics path planning algorithms
-- Algorithm visualization
-- Computational geometry
-- Robotics applications
-
-#### [The Spain Project](https://github.com/richardogundele/thespain)
-**Python** | Data analysis and processing pipeline
-- Data collection and processing
-- Statistical analysis
-- Python-based workflows
+#### [Claimnow](https://github.com/richardogundele/claimnow)
+**TypeScript** | Claims processing and management platform
+- Automated claims submission
+- Real-time status tracking
+- Secure document management
 
 ---
 
