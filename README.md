@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Richard</h1>
-  <h3>AI Engineer & Research Leader</h3>
+  <h3>AI Solutions Architect</h3>
 
   <p>
     <a href="https://www.linkedin.com/in/richardogundele/" target="_blank">
