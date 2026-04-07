@@ -16,7 +16,7 @@
 
 ## About Me
 
-AI Engineer specializing in **Machine Learning**, **Cloud Infrastructure**, and **Intelligent Systems**. Experienced in building scalable solutions across full-stack development, infrastructure automation, and AI/ML applications.
+AI Solution Architect specializing in **LLMs,RAG**, **Machine Learning**, **Cloud Infrastructure**, and **Intelligent Systems**. Experienced in building scalable solutions across full-stack development, infrastructure automation, and AI/ML applications.
 
 Passionate about democratizing AI education and contributing to open-source projects that deliver real-world impact.
 
